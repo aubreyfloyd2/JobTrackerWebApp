@@ -1,0 +1,49 @@
+.header {
+    background-color: rgba(30, 30, 30, 1);
+    color: #fff;
+    padding: 1rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+  }
+
+  .header-link {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .header h1 {
+    margin: 0;
+    font-size: 1.8rem;
+  }
+  
+  .header nav ul {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .header nav ul li {
+    margin: 0;
+  }
+  
+  .header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.1rem;
+    transition: color 0.3s ease;
+  }
+  
+  .header nav ul li a:hover {
+    color: rgba(215, 63, 9, 1);
+  }
+
+  .favicon {
+    width: 32px;
+    height: 32px;
+  }
+  
+  
