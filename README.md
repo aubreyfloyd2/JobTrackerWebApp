@@ -6,6 +6,10 @@ Deployed Web App: https://jobtrackerwebapp-e713d33594b0.herokuapp.com/
 
 The Job Tracker web application is designed for computer science students and recent graduates to manage their job and internship search efficiently. It provides comprehensive tools for tracking job applications, managing skills, and organizing professional contacts, all within a user-friendly interface.
 
+## Team Collaboration
+
+This project was developed collaboratively by a team over the course of June 2024 to August 2024. Each team member contributed to various aspects of the application, including frontend development, backend development, database management, and deployment. Regular stand-up meetings and code reviews ensured that the team worked cohesively to overcome challenges and deliver a successful product.
+
 ## User Perspective
 
 Upon signing up and logging in securely, users can access three main pages:
